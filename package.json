@@ -1,0 +1,21 @@
+{
+  "name": "nics-advice-serverless-plugin",
+  "version": "1.0.0",
+  "description": "A plugin that will give my personal, 100% opinionated advice on your serverless file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-perso:nicoandra/nics-advice-serverless-plugin.git"
+  },
+  "keywords": [
+    "serverless",
+    "plugin",
+    "best",
+    "practices"
+  ],
+  "author": "Nico Andrade",
+  "license": "ISC"
+}
